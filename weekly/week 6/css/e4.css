@@ -1,0 +1,183 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body{
+	font-family:apostil, sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+	line-height: 3em;
+	background-color:white;
+	margin: 10 20 10 20;
+	font-size: 30px;
+	
+	
+}
+
+header{
+	font-family: "elizeth", serif;
+	font-size: 30px;
+	text-align: center;
+	color:hotpink;
+	margin: 10 20 10 20; 
+	outline-style: dashed;
+	padding-bottom: 10px; 
+	padding-top: 10px; 
+
+	
+	
+	
+	
+}
+
+.lead{
+	text-align: center;
+	font-weight:500;
+	font-size: 38px;
+	background-color: antiquewhite;
+	outline-style: auto;
+	outline-color: black; 
+	
+	
+}
+
+
+.intro{
+	font-family:apostil, sans-serif;
+	background-color: palevioletred;
+	color: white;
+	outline-style:dotted;
+	outline-color: black; 
+	
+}
+
+.design{
+	background-color: palevioletred;
+	color:white;
+	outline-style: dashed;
+	
+}
+
+.title{
+	text-align: center;
+	padding-top: 1em;
+	
+}
+
+.harmony{
+	background-color: antiquewhite;
+	color: black;
+	outline-style: auto;
+	
+	
+}
+
+.contrast{
+	background-color: palevioletred;
+	color: white;
+	outline-style: dashed;
+	outline-color: black;
+	
+}
+h1{
+	font-family: "elizeth", serif;
+font-weight: 400;
+	font-style:italic;
+
+}
+
+
+.byline{ 
+	font-size: 40px;
+	
+	
+}
+
+h2,h3{
+	margin-left: 80px;
+	color:black;
+}
+
+
+p{
+	font-family: "Zalando Sans Expanded", sans-serif;
+	margin-right: 80px;
+	margin-left: 80px;
+	
+	
+}
+
+
+.lead{
+	font-size: 30px;
+	
+}
+
+section {
+	font-size: 35px;
+	color:indigo;}
+
+.pull-quote{
+	font-size: 35px;
+	font-style: italic;
+	text-align: center;
+	background-color: antiquewhite;
+	outline-style:auto
+	
+	
+	
+}
+
+
+.contrast-list{
+	margin-left: 200px;
+	color: black;
+	padding-bottom: 3em;
+	
+	
+	
+
+	
+
+}
+.detailed-contrasts{
+	font-family: apostil, sans-serif;
+	font-size:1em;
+	background-color: antiquewhite;
+	line-height: 1em;
+	outline-style: auto;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	
+	
+	
+}
+
+.underline{
+	
+	text-decoration: underline;
+}
+
+
+.descriptions{
+	color:black;
+	font-weight:550;
+	font-size: 0.9em;
+	line-height: 2em;
+	padding-bottom: 2em;
+	
+}
+
+.article-footer{
+	font-size: .5em;
+	background-color: palevioletred;
+	text-align: center;
+	font-family:apostil, sans-serif;
+	outline-style: dashed;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	
+
+	
+}
+	
