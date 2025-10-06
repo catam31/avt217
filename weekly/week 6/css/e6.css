@@ -1,0 +1,67 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+.conatiner {
+	width:80%;
+	margin: 0 auto;
+	
+}
+
+img {
+	width: 80%;
+	height:auto;
+}
+
+.box1 {
+	position:absolute;
+	bottom:8px;
+	left: 16px;
+	
+}
+
+.box2 {
+	position:fixed;
+	top: 2px;
+	left: 16px;
+	background-color:aquamarine;
+	padding: 10px 20px;
+	
+	
+}
+
+.insidebox2{
+	
+	background-color:burlywood;
+	
+}
+
+.box3 {
+	position:fixed;
+	top: 2px;
+	right:16px;
+	background-color: cyan;
+	padding: 10px 20px; 
+}
+
+.insidebox3 {
+	background-color: beige;
+	
+}
+
+.box4 {
+	position:absolute;
+	bottom:auto;
+	left: 16px; 
+	background-color: cornflowerblue;
+	
+	
+}
+.insidebox4{
+	
+	background-color: azure;
+}
+
+
+
+
