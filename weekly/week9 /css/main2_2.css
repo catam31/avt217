@@ -56,6 +56,7 @@ text-transform: none;
     .mobile-only {
    display:block;
 		color:darkred;
+		font-size: 20px;
     }
 	  /* Now the style and content for desktop will not be displied */
     .desktop-only {
