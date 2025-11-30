@@ -8,15 +8,6 @@ body {
 
 }
 
-header {
-  position: relative;
-  width: 100%;
-  height: 70vh;
-  overflow: hidden;
-}
-
-
-/* NAVIGATION */
 main {
   display: flex;
   flex-direction: column;
@@ -28,11 +19,9 @@ main {
 
 .homepagejapan {
   background: url("imghomepage/Japan.jpg")no-repeat center center/cover;
-  width: 100%;
-  height: 100%;
-  display: flex;
-  align-items:center;
-  justify-content:flex-start;
+	width: 100%;
+	height: 100%;
+
 }
 
 .homepagejapan h1 {
@@ -46,20 +35,22 @@ font-style: normal;
 
 .testing {
 	background: url("imghomepage/about.jpg")no-repeat center center/cover;
-height: 400px;
+height: 750px;
+width: 100%;
+
 	
 }
 
 .testing h2 {
 	text-align: center;
 	padding-top: 10px;
-	font-size: 8rem;
+	font-size: 15rem;
 	color:white;
 }
 
 .testing1 {
 	background: url("imghomepage/24hours.jpg")no-repeat center center/cover;
-	height: 400px;
+	height: 750px;
 	width: 40%;
 	
 }
@@ -67,17 +58,17 @@ height: 400px;
 .testing1 h2 {
 	text-align: center;
 	padding-top: 85px;
-	font-size: 8rem;
+	font-size: 15rem;
 	color:white;}
 
 .testing2
 {background: url("imghomepage/sightstosee.jpg")no-repeat center center/cover;
-	height: 400px;
+	height: 750px;
 width: 40%;}
 
 .testing2 h2 {text-align: center;
 	padding-top: 85px;
-	font-size: 8rem;
+	font-size: 15rem;
 	color:white;}
 .column {
 	display:flex;
@@ -87,10 +78,10 @@ width: 40%;}
 
 footer {
 background-color: white;
-  color: black;
-  padding: 20px 0;
-  text-align: center;
-	border-top: 1px solid #ccc;}
+ color: black;
+ padding: 20px 0;
+ text-align: center;
+border-top: 1px solid #ccc;}
 
 .footer-nav ul {
   list-style: none;
@@ -120,6 +111,46 @@ footer p a {
 /*start about page*/
 
 
+
+.about-section {
+	padding-left: 75px
+}
+
+.about-section h1 {
+    font-size: 300px;
+    margin-bottom: 20px;
+}
+
+.about-section h2 {
+    font-size: 80px;
+    line-height: 1.8;
+}
+
+.image-section {
+    width: 100%;
+    height: 850px;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    margin: 40px 0 150px 40px;
+}
+
+.overlay {
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.overlay h2 {
+    font-size: 100px;
+    margin-bottom: 4px;
+}
+
+.overlay p {
+    font-size: 70px;
+    line-height: 1.7;
+}
 
 
 
