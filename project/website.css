@@ -86,6 +86,23 @@ width: 40%;}
 
 .column a {text-decoration: none}
 
+a:link {
+	color:black;
+	text-decoration:none;
+}
+a:visited{
+	color:firebrick;
+}
+
+a:hover {
+	color:firebrick;
+	text-decoration:underline;
+}
+
+a:active {
+	color:burlywood;
+}
+
 footer {
 background-color: white;
  color: black;
